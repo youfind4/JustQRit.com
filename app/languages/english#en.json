@@ -697,7 +697,7 @@
 		},
 
 		"input": {
-			"help"						: "Make sure that your domain or subdomain has an A record pointing to 167.71.35.170 or CNAME record pointing to %s.",
+			"help"						: "Make sure that your domain or subdomain has an A record pointing to %s or CNAME record pointing to %s.",
 			"host"						: "Domain or subdomain",
 			"host_placeholder"			: "domain.com",
 			"custom_index_url"			: "Custom index URL",
@@ -2383,7 +2383,7 @@
 		},
 
 		"main": {
-			"helper"					: "Make sure that your domain or subdomain has an A record pointing to 167.71.35.170 or CNAME record pointing to %s.",
+			"helper"					: "Make sure that your domain or subdomain has an A record pointing to %s or CNAME record pointing to %s.",
 			"scheme"					: "Scheme",
 			"host"						: "Domain",
 			"host_placeholder"			: "domain.com",
