@@ -2407,7 +2407,7 @@
 	"admin_domain_create": {
 		"title"							: "Add additional global domain",
 		"header"						: "Add additional global domain",
-		"subheader"						: "Make sure to properly read the <a href=\"https://altumco.de/easyqr-docs\">Documentation</a> on how to setup Custom Domains.",
+		"subheader"						: "Make sure to properly read the <a href=\"https://youfind4.com/easyqr-docs\">Documentation</a> on how to setup Custom Domains.",
 		"menu"							: "Add domain"
 	},
 
@@ -2420,7 +2420,7 @@
 		"title"							: "Website Settings",
 		"menu"							: "Website Settings",
 		"header"						: "Website Settings",
-		"documentation"					: "Read the <a href=\"https://altumco.de/easyqr-docs\" target=\"_blank\">Documentation</a> to get more details on certain available configurations.",
+		"documentation"					: "Read the <a href=\"https://youfind4.com/easyqr-docs\" target=\"_blank\">Documentation</a> to get more details on certain available configurations.",
 
 		"tab": {
 			"main"						: "Main",

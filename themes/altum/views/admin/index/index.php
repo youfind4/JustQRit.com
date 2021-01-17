@@ -224,8 +224,8 @@
                 <?= PRODUCT_VERSION ?>
             </div>
         </div>
-
-        <!--<div class="row my-3">
+<!--
+        <div class="row my-3">
             <div class="col-12 col-md-6">
                 <span class="font-weight-bold">
                     <i class="fa fa-fw fa-book fa-sm mr-1"></i> Documentation
@@ -234,8 +234,8 @@
             <div class="col-12 col-md-6">
                 <a href="<?= PRODUCT_DOCUMENTATION_URL ?>" target="_blank"><?= PRODUCT_NAME ?> Documentation</a>
             </div>
-        </div> 
-
+        </div>
+-->
         <div class="row my-3">
             <div class="col-12 col-md-6">
                 <span class="font-weight-bold">
@@ -243,10 +243,10 @@
                 </span>
             </div>
             <div class="col-12 col-md-6">
-                <a href="<?= PRODUCT_URL ?>" target="_blank">Codecanyon</a>
+                <a href="<?= PRODUCT_URL ?>" target="_blank">JustQRiT.com</a>
             </div>
         </div>
--->
+
         <div class="row my-3">
             <div class="col-12 col-md-6">
                 <span class="font-weight-bold">
@@ -268,7 +268,7 @@
                 <a href="https://Youfind4.com/" target="_blank">Youfind4</a>
             </div>
         </div>
-<!--
+
         <div class="row my-3">
             <div class="col-12 col-md-6">
                 <span class="font-weight-bold">
@@ -276,9 +276,9 @@
                 </span>
             </div>
             <div class="col-12 col-md-6">
-                <a href="https://altumco.de/twitter" target="_blank">@altumcode</a>
+                <a href="https://twitter.com/youfind4" target="_blank">@youfind4</a>
             </div>
         </div>
--->
+
     </div>
 </div>

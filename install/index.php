@@ -32,7 +32,7 @@ if(file_exists(ROOT . 'install/installed')) {
                     <h1>Installation</h1>
                     <p class="subheader d-flex flex-row">
                         <span class="text-muted">
-                            <a href="<?= PRODUCT_URL ?>" target="_blank" class="text-gray-500"><?= PRODUCT_NAME ?></a> by <a href="https://altumco.de/site" target="_blank" class="text-gray-500">AltumCode</a> and Nulled By <a href="https://NullJungle.com" target="_blank" class="text-gray-500">NullJungle</a>
+                            <a href="<?= PRODUCT_URL ?>" target="_blank" class="text-gray-500"><?= PRODUCT_NAME ?></a> by <a href="https://youfind4.com/site" target="_blank" class="text-gray-500">AltumCode</a> and Nulled By <a href="https://NullJungle.com" target="_blank" class="text-gray-500">NullJungle</a>
                         </span>
                     </p>
                 </div>
@@ -78,7 +78,7 @@ if(file_exists(ROOT . 'install/installed')) {
                         <h2>Welcome</h2>
                         <p>The installation process should take less than <strong>5 minutes</strong> if you've done everything else from the documentation.</p>
 
-                        <p>Thank you for choosing the <a href="https://altumco.de/site" target="_blank">AltumCode</a> brand.</p>
+                        <p>Thank you for choosing the <a href="https://youfind4.com/site" target="_blank">AltumCode</a> brand.</p>
 
                         <a href="#agreement" id="welcome_start" class="navigator btn btn-primary">Start the installation</a>
                     </section>

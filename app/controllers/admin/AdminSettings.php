@@ -143,7 +143,7 @@ class AdminSettings extends Controller {
 
             /* Changing the license process */
             if(!empty($_POST['license_new_license'])) {
-                $altumcode_api = 'https://api2.youfind4.com/validate';
+                $altumcode_api = 'https://api2.altumcode.com/validate';
 
                 /* Make sure the license is correct */
                 $response = \Unirest\Request::post($altumcode_api, [], [

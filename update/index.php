@@ -54,7 +54,7 @@ if($product_info) {
                 <h1>Update</h1>
                 <p class="subheader d-flex flex-row">
                     <span class="text-muted">
-                        <a href="<?= PRODUCT_URL ?>" target="_blank" class="text-gray-500"><?= PRODUCT_NAME ?></a> by <a href="https://altumco.de/site" target="_blank" class="text-gray-500">AltumCode</a>
+                        <a href="<?= PRODUCT_URL ?>" target="_blank" class="text-gray-500"><?= PRODUCT_NAME ?></a> by <a href="https://Youfind4.com/site" target="_blank" class="text-gray-500">Youfind4</a>
                     </span>
                 </p>
             </div>
