@@ -1,8 +1,8 @@
 <?php
 
 /* Configuration of the site */
-define('DATABASE_SERVER',   '');
-define('DATABASE_USERNAME', '');
-define('DATABASE_PASSWORD', '');
-define('DATABASE_NAME',     '');
-define('SITE_URL',          '');
+define('DATABASE_SERVER',   'localhost');
+define('DATABASE_USERNAME', 'tkcpshbcjc');
+define('DATABASE_PASSWORD', 'r6HZhcm7Rz');
+define('DATABASE_NAME',     'tkcpshbcjc');
+define('SITE_URL',          'https://justqrit.com/');
