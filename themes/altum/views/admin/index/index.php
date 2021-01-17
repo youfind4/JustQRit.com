@@ -225,7 +225,7 @@
             </div>
         </div>
 
-        <div class="row my-3">
+        <!--<div class="row my-3">
             <div class="col-12 col-md-6">
                 <span class="font-weight-bold">
                     <i class="fa fa-fw fa-book fa-sm mr-1"></i> Documentation
@@ -234,7 +234,7 @@
             <div class="col-12 col-md-6">
                 <a href="<?= PRODUCT_DOCUMENTATION_URL ?>" target="_blank"><?= PRODUCT_NAME ?> Documentation</a>
             </div>
-        </div>
+        </div> 
 
         <div class="row my-3">
             <div class="col-12 col-md-6">
@@ -246,15 +246,15 @@
                 <a href="<?= PRODUCT_URL ?>" target="_blank">Codecanyon</a>
             </div>
         </div>
-
+-->
         <div class="row my-3">
             <div class="col-12 col-md-6">
                 <span class="font-weight-bold">
-                    <i class="fa fa-fw fa-project-diagram fa-sm mr-1"></i> More work of mine
+                    <i class="fa fa-fw fa-project-diagram fa-sm mr-1"></i> More work of us
                 </span>
             </div>
             <div class="col-12 col-md-6">
-                <a href="https://codecanyon.net/user/altumcode/portfolio" target="_blank">Envato // Codecanyon</a>
+                <a href="https://youfind4.com/portfolio" target="_blank">Youfind4 // Portfolio</a>
             </div>
         </div>
 
@@ -265,10 +265,10 @@
                 </span>
             </div>
             <div class="col-12 col-md-6">
-                <a href="https://altumcode.com/" target="_blank">AltumCode</a>
+                <a href="https://Youfind4.com/" target="_blank">Youfind4</a>
             </div>
         </div>
-
+<!--
         <div class="row my-3">
             <div class="col-12 col-md-6">
                 <span class="font-weight-bold">
@@ -279,6 +279,6 @@
                 <a href="https://altumco.de/twitter" target="_blank">@altumcode</a>
             </div>
         </div>
-
+-->
     </div>
 </div>
