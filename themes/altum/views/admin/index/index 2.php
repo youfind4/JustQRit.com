@@ -213,7 +213,7 @@
 
 <div class="card">
     <div class="card-body">
-<!--
+
         <div class="row my-3">
             <div class="col-12 col-md-6">
                 <span class="font-weight-bold">
@@ -281,5 +281,4 @@
         </div>
 
     </div>
-    -->
 </div>
