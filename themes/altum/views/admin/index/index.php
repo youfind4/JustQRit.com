@@ -276,7 +276,7 @@
                 </span>
             </div>
             <div class="col-12 col-md-6">
-                <a href="https://twitter.com/youfind4" target="_blank">@youfind4</a>
+                <a href="https://twitter.com/youfind4" target="_blank">@youfind4inc</a>
             </div>
         </div>
 
